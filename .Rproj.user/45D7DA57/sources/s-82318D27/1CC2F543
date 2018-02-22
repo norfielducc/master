@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519242910411.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1CC2F543",
+    "lastKnownWriteTime" : 1519248684,
+    "last_content_update" : 1519248684054,
+    "path" : "M:/R_HOME/norfielducc_universal/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "57,1",
+        "scrollLine" : "43"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

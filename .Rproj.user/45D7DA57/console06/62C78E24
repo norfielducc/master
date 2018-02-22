@@ -1,0 +1,31 @@
+[0m[0K]0;:/m/R_HOME/norfielducc_universal[?25l
+[0;32mbosr@RTH003830 [0;35m [0;33m/m/R_HOME/norfielducc_universal[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote -[0K[?25hv[0K[?25l
+[0K[?25horigin  git@github.com:rogerjbos/roger.git (fetch)[0K[?25l
+origin  git@github.com:rogerjbos/roger.git (push)[0K
+[0K[?25h[?25l
+[0;32mbosr@RTH003830 [0;35m [0;33m/m/R_HOME/norfielducc_universal[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote s[0K[?25he[0Kt[0K-[0Ku[0Kr[0Kl[0K[22G[?25l$ git remote set-url o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[29G[?25l$ git remote set-url origin h[0K[?25ht[0Kt[0Kp[0Ks[0K:[0K/[0K/[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Kc[0Ko[0Km[0K/[0Kn[0Ko[0Kr[0Kf[0Ki[0Ke[0Kl[0Kd[0Ku[0Kc[0Kc[0K/[0Km[0Ka[0Ks[0Kt[0Ke[0Kr[0K.[0Kg[0Ki[0Kt[0K[?25l
+[0K[?25h[?25l
+[0;32mbosr@RTH003830 [0;35m [0;33m/m/R_HOME/norfielducc_universal[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Kmo[0Kt[0Ke[0K[14G[?25l$ git remote -[0K[?25hv[0K[?25l
+[0K[?25horigin  https://github.com/norfielducc/master.git (fetch)[0K[?25l
+origin  https://github.com/norfielducc/master.git (push)[0K
+[0K[?25h[?25l
+[0;32mbosr@RTH003830 [0;35m [0;33m/m/R_HOME/norfielducc_universal[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote r[0K[?25hm[0K[17G[?25l$ git remote rm o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[?25l
+[0K[?25h[?25l
+[0;32mbosr@RTH003830 [0;35m [0;33m/m/R_HOME/norfielducc_universal[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[14G[?25l$ git remote -[0K[?25hv[0K[?25l
+[0K[?25h[?25l
+[0;32mbosr@RTH003830 [0;35m [0;33m/m/R_HOME/norfielducc_universal[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25harchetypes   content  index.Rmd  norfielducc_universal.Rproj  themes[0K[?25l
+config.toml  data     layouts    static[0K
+[0K[?25h[?25l
+[0;32mbosr@RTH003830 [0;35m [0;33m/m/R_HOME/norfielducc_universal[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ ^V[0K[?25h[?25l$[0K[3G[?25h[?25l$ ^V[0K[?25h[?25l$[0K[3G[?25h[?25l$ echo "# Website source code" >> README.md[0K
+[0K[?25h[?25l
+[0;32mbosr@RTH003830 [0;35m [0;33m/m/R_HOME/norfielducc_universal[0;36m (master)[0m[0K
+$ git init[0K
+[0K[?25h
